@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Some of my favorite things are:
+* Dogs
+* Big dogs
+  * Small dogs
+* Medium dogs
+* 🐶
